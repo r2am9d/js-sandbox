@@ -1,4 +1,4 @@
-# 🟨 JavaScript Sandbox
+# [![](https://skillicons.dev/icons?i=js)](https://skillicons.dev) JavaScript Sandbox
 
 A personal sandbox for revisiting and practicing core JavaScript concepts.
 
