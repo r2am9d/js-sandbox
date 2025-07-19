@@ -11,6 +11,7 @@ A personal sandbox for revisiting and practicing core JavaScript concepts.
 - `lessons/arrays.js`: Examples of available array methods
 - `lessons/chaining.js`: Examples of optional chaining and nullish coalesce
 - `lessons/immutable.js`: Examples of immutability
+- `lessons/promises.js`: Examples of promises and async/await usage
 
 ## ▶️ Usage
 
